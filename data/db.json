@@ -1,0 +1,61 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "createdAt": "2020-04-03",
+      "name": "Plans for the day",
+      "tasks": [
+        {
+          "label": "Clean house",
+          "done": true
+        },
+        {
+          "label": "Visit grandpa",
+          "done": true
+        },
+        {
+          "label": "Go to store",
+          "done": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "createdAt": "2020-04-05",
+      "name": "Groceries list",
+      "tasks": [
+        {
+          "label": "Tomatoes",
+          "done": false
+        },
+        {
+          "label": "Bread",
+          "done": true
+        },
+        {
+          "label": "Cucumbers",
+          "done": false
+        },
+        {
+          "label": "Lettuce",
+          "done": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "createdAt": "2020-04-06",
+      "name": "House chores",
+      "tasks": [
+        {
+          "label": "Wash laundry",
+          "done": false
+        },
+        {
+          "label": "Clean the kitchen",
+          "done": true
+        }
+      ]
+    }
+  ]
+}
